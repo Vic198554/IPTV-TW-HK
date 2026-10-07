@@ -1,0 +1,34 @@
+#EXTM3U tvg-shift=8
+# 台湾官方新闻
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS新闻" tvg-logo="" group-title="台湾官方新闻",TVBS NEWS 24小时直播
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-id="FTV" tvg-name="民视新闻" tvg-logo="" group-title="台湾官方新闻",民视 FTV 24小时直播
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-id="EBC" tvg-name="东森新闻" tvg-logo="" group-title="台湾官方新闻",东森新闻 EBC
+https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-id="SET" tvg-name="三立新闻" tvg-logo="" group-title="台湾官方新闻",三立 SET NEWS
+https://www.youtube.com/watch?v=yeYC0mbSIOo
+#EXTINF:-1 tvg-id="PTS" tvg-name="公视 PTS" tvg-logo="" group-title="台湾官方新闻",台湾公共电视 PTS
+https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 tvg-id="CTS" tvg-name="华视 CTS" tvg-logo="" group-title="台湾官方新闻",华视 CTS
+https://www.youtube.com/watch?v=dummy_cts_live
+#EXTINF:-1 tvg-id="TTV" tvg-name="台视 TTV" tvg-logo="" group-title="台湾官方新闻",台湾电视公司 TTV
+https://www.youtube.com/watch?v=9iRAqBMakXY
+# 欧美官方新闻
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC News" tvg-logo="" group-title="欧美官方新闻",BBC News Live
+https://www.youtube.com/watch?v=dummy_bbc_live
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC News" tvg-logo="" group-title="欧美官方新闻",ABC News Live
+https://www.youtube.com/watch?v=dummy_abc_live
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX News" tvg-logo="" group-title="欧美官方新闻",FOX News Live
+https://www.youtube.com/watch?v=dummy_fox_live
+#EXTINF:-1 tvg-id="CNS" tvg-name="CNS News" tvg-logo="" group-title="欧美官方新闻",CNS News
+https://www.youtube.com/watch?v=dummy_cns_live
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="欧美官方新闻",CNN Live
+https://www.youtube.com/watch?v=dummy_cnn_live
+# 中文官方新闻
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN 中文" tvg-logo="" group-title="中文官方新闻",CGTN 中文直播
+https://www.youtube.com/watch?v=dummy_cgtn_live
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="中文官方新闻",CCTV-13 新闻直播
+https://www.youtube.com/watch?v=dummy_cctv13_live
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="凤凰卫视中文" tvg-logo="" group-title="中文官方新闻",凤凰卫视中文台
+https://www.youtube.com/watch?v=dummy_phoenix_live
