@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="台湾",台湾台视新闻 TTV News
+https://www.youtube.com/watch?v=dummy_ttv_live
+#EXTINF:-1 tvg-logo="" group-title="台湾",台湾民视 FTV
+https://www.youtube.com/watch?v=dummy_ftv_live
+#EXTINF:-1 tvg-logo="" group-title="台湾",东森新闻 EBC
+https://www.youtube.com/watch?v=dummy_ebc_live
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS 新闻
+https://www.youtube.com/watch?v=dummy_tvbs_live
+#EXTINF:-1 tvg-logo="" group-title="台湾",三立新闻 SET
+https://www.youtube.com/watch?v=dummy_set_live
+#EXTINF:-1 tvg-logo="" group-title="欧美",BBC News
+https://www.youtube.com/watch?v=dummy_bbc_live
+#EXTINF:-1 tvg-logo="" group-title="欧美",ABC News Live
+https://www.youtube.com/watch?v=dummy_abc_live
+#EXTINF:-1 tvg-logo="" group-title="欧美",FOX News Live
+https://www.youtube.com/watch?v=dummy_fox_live
+#EXTINF:-1 tvg-logo="" group-title="欧美",CNS News
+https://www.youtube.com/watch?v=dummy_cns_live
