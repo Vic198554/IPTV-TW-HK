@@ -1,0 +1,34 @@
+#EXTM3U tvg-shift=8
+# 大陆以外中文 24小时新闻直播
+# 台湾
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS新闻" group-title="台湾",TVBS NEWS 24小时直播
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-id="FTV" tvg-name="民视新闻" group-title="台湾",民视 FTV 24小时直播
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-id="EBC" tvg-name="东森新闻" group-title="台湾",东森新闻 EBC
+https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-id="SET" tvg-name="三立新闻" group-title="台湾",三立 SET NEWS
+https://www.youtube.com/watch?v=yeYC0mbSIOo
+#EXTINF:-1 tvg-id="SETINEWS" tvg-name="三立iNEWS" group-title="台湾",三立iNEWS
+https://www.youtube.com/live/pF507BLtbqU
+#EXTINF:-1 tvg-id="PTS" tvg-name="公视 PTS" group-title="台湾",台湾公共电视 PTS
+https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 tvg-id="PTSTAIWANESE" tvg-name="公视台语台" group-title="台湾",公视台语台
+https://www.youtube.com/watch?v=6KlRR_DGhmI
+#EXTINF:-1 tvg-id="CTS" tvg-name="华视 CTS" group-title="台湾",华视 CTS
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-id="TTV" tvg-name="台视 TTV" group-title="台湾",台湾电视公司 TTV
+https://www.youtube.com/watch?v=9iRAqBMakXY
+#EXTINF:-1 tvg-id="CTI" tvg-name="中天新闻" group-title="台湾",中天新闻
+https://www.youtube.com/watch?v=OcvOEPFHwdw
+#EXTINF:-1 tvg-id="CTI2" tvg-name="中天新闻2台" group-title="台湾",中天新闻2台 24小时直播
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1 tvg-id="MIRROR" tvg-name="镜新闻" group-title="台湾",镜新闻
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-id="GLOBAL" tvg-name="寰宇新闻" group-title="台湾",寰宇新闻
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
+#EXTINF:-1 tvg-id="GLOBALTW" tvg-name="寰宇新闻台湾台" group-title="台湾",寰宇新闻台湾台
+https://www.youtube.com/live/w87VGpgd90U
+# 香港
+#EXTINF:-1 tvg-id="TVBNEWS" tvg-name="无线新闻 TVB News" group-title="香港",无线新闻 TVB News Official 直播页
+https://www.youtube.com/@tvbnewsofficial/live
