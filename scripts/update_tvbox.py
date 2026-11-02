@@ -57,7 +57,8 @@ def extract_manifest(youtube_url):
     for attempt in range(3):
         try:
             out = subprocess.run(
-                ["yt-dlp", "-j", "--no-warnings", "--no-playlist", youtube_url],
+                ["yt-dlp", "-j", "--no-warnings", "--no-playlist",
+                 "--extractor-args", "youtube:player_client=android", youtube_url],
                 capture_output=True, text=True, timeout=90,
             )
         except Exception as e:
